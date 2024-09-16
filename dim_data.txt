@@ -1,0 +1,16 @@
+
+
+dim_vends:
+apple_tree
+
+
+vend_drops:
+apple_tree:apple
+
+
+tool_unlocks:
+axe:apple_tree,wood\pine_tree,pine_wood
+
+
+
+
